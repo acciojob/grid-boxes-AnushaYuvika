@@ -3,7 +3,7 @@
 	display: grid;
 	width: 80vw;
 	grid-template-columns: repeat(4, 1fr); /* 4 equal columns */
-    grid-template-rows: repeat(5, 100px); 
+    grid-template-rows: repeat(5, 70px); 
 }
 
 .box {
