@@ -3,7 +3,7 @@
 	height: 400px;
 	background-color: green;
 	display: grid;
-	grid-template-columns: repeat(5, 1fr);
+	grid-template-columns: repeat(5);
 	color: white;
 }
 
@@ -12,7 +12,7 @@
 }
 
 #box1 {
-	grid-column: span 4 / auto;;
+	grid-column: span 4 / auto;
 }
 #box2 {
 	grid-row: 2/6;
