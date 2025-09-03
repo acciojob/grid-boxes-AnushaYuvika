@@ -1,9 +1,9 @@
 #grid {
-	width: 650px;
+	width: 400px;
 	height: 400px;
 	background-color: green;
 	display: grid;
-	grid-template-columns: 100px 200px 200px 150px;
+	grid-template-columns: 80px 80px 80px 80px 80px;
 	color: white;
 }
 
@@ -12,7 +12,7 @@
 }
 
 #box1 {
-	grid-column: 1/5;
+	grid-column: 1 / 5;
 }
 #box2 {
 	grid-row: 2/6;
