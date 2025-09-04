@@ -1,4 +1,4 @@
-#grid {
+/* #grid {
 	width: 650px;
 	height: 400px;
 	background-color: green;
@@ -47,4 +47,4 @@
 }
 #box10 {
 	grid-column: span 3 / auto;
-}
+} */
